@@ -69,8 +69,9 @@ The material in this repo was presented at Microsoft Build 2025 under the sessio
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Build session page | https://build.microsoft.com/sessions/LAB334 | Event session page with downloadable recording, slides, resources, and speaker bio |
-
+| Build session page | https://build.microsoft.com/sessions/LAB334| Event session page with downloadable recording, slides, resources, and speaker bio |
+|Microsoft Learn|[Develop, replatform, and improve AI apps via advanced Azure AI services](https://aka.ms/ADAI_DevsAdvPlan)|Official Collection or Plan with skilling resources to learn at your own pace|
+| | | |
 
 
 
